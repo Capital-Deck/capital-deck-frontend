@@ -10,7 +10,7 @@ const Home = () => {
     <section id='Home' className='section home-section'>
       <div className='home-overviewscreen'>
         <div className='home-section-bgImage'>
-          <img src={bgshadeImg} width='1153' height='637' alt='bg-shade' />
+          <img src={bgshadeImg} width='1153' height='637' alt='bg-shade' loading='eager' />
         </div>
         <div className='overview-container'>
           <h1>
