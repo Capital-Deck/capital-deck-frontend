@@ -1,4 +1,4 @@
-[![![Netlify Status](https://api.netlify.com/api/v1/badges/a778317f-094d-4eff-963d-3a75959c9a72/deploy-status)](https://app.netlify.com/sites/capitaldeckorg/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a778317f-094d-4eff-963d-3a75959c9a72/deploy-status)](https://app.netlify.com/sites/capitaldeckorg/deploys)
 <h1><img align="center" height="35" src="./src/assets/capital-deck-logo-d.svg"></h1>
 
 
