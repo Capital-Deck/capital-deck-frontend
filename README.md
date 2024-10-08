@@ -24,17 +24,6 @@ Please Note:
 1. We recommend using this app in Google Chrome.
 2. We recommend using this app on laptop/desktop for the best possible experience as of now.
 
-<br/>
-Test Credentials:
-
-- User   
-
-    email : pestoproject@demomail.com
-
-    password: Pesto@123
-   
-
-<br/>
 
 # Installation
 
